@@ -3,7 +3,7 @@
 
 <br> 
 
-🌱  I’m currently learning...  and progress.
+🌱  Currently exploring GraphRAG architectures and optimizing local LLM inference with Rust
 
 
 
