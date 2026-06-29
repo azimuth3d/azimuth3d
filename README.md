@@ -1,5 +1,5 @@
 
-<img src="https://github.com/azimuth3d/azimuth3d/blob/main/header.png" alt="banner that says Khomkrit Uparakham - Fullstack Developer, DevOps, Photographerr">
+<h2> Platform Engineer | Building High-Performance Backend & AI Infrastructure" </h2>
 
 <br> 
 
