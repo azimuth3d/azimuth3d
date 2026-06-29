@@ -1,5 +1,5 @@
 
-<h2> Platform Engineer | Building High-Performance Backend & AI Infrastructure" </h2>
+<h1> Platform Engineer | Building High-Performance Backend & AI Infrastructure </h1>
 
 <br> 
 
