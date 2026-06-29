@@ -5,14 +5,6 @@
 
 🌱  Currently exploring GraphRAG architectures and optimizing local LLM inference with Rust
 
-
-
-<br><br>
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=azimuth3d&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=azimuth3d&show_icons=true&theme=radical)
-
-
 <br><br>
 
 ## My Skill Set  
