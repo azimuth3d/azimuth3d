@@ -1,4 +1,4 @@
-Hi, I'm Khomkrit Uparakham 👋
+Hi, I'm Khomkrit Uprakham 👋
 ## Senior Software Architect | Cloud-Native Infrastructure & AI
 <br> 
 
