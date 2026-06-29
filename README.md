@@ -1,10 +1,30 @@
-
-<h1> Platform Engineer | Building High-Performance Backend & AI Infrastructure </h1>
-
+Hi, I'm Khomkrit Uparakham 👋
+## Senior Software Architect | Cloud-Native Infrastructure & AI
 <br> 
 
 🌱  Currently exploring GraphRAG architectures and optimizing local LLM inference with Rust
 
+I specialize in designing and building high-throughput backend systems, optimizing cloud-native infrastructure, and integrating Local Sovereign AI. My focus is on delivering highly scalable, memory-safe, and zero-cost abstraction solutions.
+
+### 🏗️ Architectural Vision & Focus
+- **High-Performance Engineering:** Building robust systems using Clean Architecture and Domain-Driven Design (DDD).
+- **Cloud-Native & DevOps:** Designing zero-downtime deployments, microservices orchestration, and API Gateways.
+- **AI & Data Infrastructure:** Architecting Local LLM integrations, RAG pipelines, and highly optimized data layers without traditional ORM bottlenecks.
+
+### 💻 Core Tech Stack
+* **Languages:** `Rust` `Go` `Python` `TypeScript`
+* **Infrastructure:** `Kubernetes` `Argo CD` `APISIX` `Docker` `Terraform`
+* **Databases:** `ScyllaDB` `Redis` `Qdrant` `PostgreSQL`
+* **AI & Machine Learning:** `Local LLM Inference` `PyTorch` `GraphRAG`
+
+### 🔭 What I'm Currently Working On
+- Architecting a high-performance **Retrieval-Augmented Generation (RAG)** orchestrator in Rust for seamless AI integration.
+- Designing schema and managing state for high-frequency algorithmic trading systems.
+- Optimizing Local AI inference pipelines for sovereign data environments.
+
+### 📫 Let's Connect
+- **Email:** [azimuth3d@gmail.com]
+- **Blog:** [khomkrit.cc]
 <br><br>
 
 ## My Skill Set  
