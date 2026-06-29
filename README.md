@@ -19,12 +19,12 @@ I specialize in designing and building high-throughput backend systems, optimizi
 
 ### 🔭 What I'm Currently Working On
 - Architecting a high-performance **Retrieval-Augmented Generation (RAG)** orchestrator in Rust for seamless AI integration.
-- Designing schema and managing state for high-frequency algorithmic trading systems.
+- Designing Lightweight AI Agent framework working on specialized environment.
 - Optimizing Local AI inference pipelines for sovereign data environments.
 
 ### 📫 Let's Connect
 - **Email:** [azimuth3d@gmail.com]
-- **Blog:** [khomkrit.cc]
+- **Blog:** [https://khomkrit.cc]
 <br><br>
 
 ## My Skill Set  
